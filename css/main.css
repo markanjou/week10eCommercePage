@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+    font-family: 'Alegreya SC';
+}
+
+
+.headingTitle {
+	font-size:70px;
+}
+
+.tshirt {
+	margin:20px 0;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	border-style: dashed;
+	
+}
